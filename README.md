@@ -12,7 +12,7 @@ you need a pre-trained network to use this example.
 
 ### Example2
 
-This notebook show how to read sequentian frames from an OpenCV's VideoCapture (that can be a video or a webcam) and perform
+This notebook shows how to read sequentian frames from an OpenCV's VideoCapture (that can be a video or a webcam) and perform
 the classification process in real time. Notice that this example does not train the neural network but loads it form the disk, 
 you need a pre-trained network to use this example.
 
